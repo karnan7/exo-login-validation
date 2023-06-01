@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/exo-login-validation/static/css/main.b3c2dc03.css",
+    "main.js": "/exo-login-validation/static/js/main.7f9a55b0.js",
+    "static/js/787.fe2f0ffa.chunk.js": "/exo-login-validation/static/js/787.fe2f0ffa.chunk.js",
+    "static/media/main.png": "/exo-login-validation/static/media/main.0f67de88a21cd37e9c01.png",
+    "index.html": "/exo-login-validation/index.html",
+    "main.b3c2dc03.css.map": "/exo-login-validation/static/css/main.b3c2dc03.css.map",
+    "main.7f9a55b0.js.map": "/exo-login-validation/static/js/main.7f9a55b0.js.map",
+    "787.fe2f0ffa.chunk.js.map": "/exo-login-validation/static/js/787.fe2f0ffa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3c2dc03.css",
+    "static/js/main.7f9a55b0.js"
+  ]
+}
